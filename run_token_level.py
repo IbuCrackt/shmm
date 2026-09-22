@@ -19,7 +19,7 @@ auch aus einem unvollständigen Lauf, mit regenerate_plots.py neu erzeugen.
 """
 import tensorflow as tf
 
-from rescrf.data import create_random_data
+from shmm_moduls.data import create_random_data
 from shmm_moduls.models import get_experiments
 from shmm_moduls.training import (
     run_single_training, evaluate_true_model, cached_run,

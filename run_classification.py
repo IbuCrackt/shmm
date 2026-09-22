@@ -16,7 +16,7 @@ import itertools
 
 import tensorflow as tf
 
-from rescrf.hierarchical_data import create_hierarchical_data
+from shmm_moduls.hierarchical_data import create_hierarchical_data
 from shmm_moduls.models import get_experiments
 from shmm_moduls.training import run_single_training, cached_run, all_cached, load_cached, print_summary
 from shmm_moduls.plotting import generate_all_plots, save_raw_results, generate_aggregate_report, group_by_classification_config

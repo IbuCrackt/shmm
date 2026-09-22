@@ -1,0 +1,15 @@
+group,exp_name,learning_rate,metric,mean,std,n
+alle_durchläufe,bilstm_hmm_order1,0.1,accuracy,0.973437488079071,0.011562526226043701,2
+alle_durchläufe,multilayer_hmm_2x_order1,0.1,accuracy,0.7109375298023224,0.03593751788139343,2
+alle_durchläufe,multilayer_hmm_2x_order1_mlp,0.1,accuracy,0.5690625011920929,0.06093749403953552,2
+alle_durchläufe,single_hmm_order1,0.1,accuracy,0.6640625298023224,0.05406251549720764,2
+alle_durchläufe,single_hmm_order2,0.1,accuracy,0.9943749904632568,0.004999995231628418,2
+alle_durchläufe,transformer_small,0.1,accuracy,0.28968749940395355,0.020937517285346985,2
+alle_durchläufe,true_generator,0.0,accuracy,0.6121875643730164,0.05281251668930054,2
+alle_durchläufe,bilstm_hmm_order1,0.1,loss,0.12963003665208817,0.05452873557806015,2
+alle_durchläufe,multilayer_hmm_2x_order1,0.1,loss,0.7645799815654755,0.07421168684959412,2
+alle_durchläufe,multilayer_hmm_2x_order1_mlp,0.1,loss,1.0309686362743378,0.06132343411445618,2
+alle_durchläufe,single_hmm_order1,0.1,loss,0.8156225383281708,0.08289477229118347,2
+alle_durchläufe,single_hmm_order2,0.1,loss,0.030241367407143116,0.01964076515287161,2
+alle_durchläufe,transformer_small,0.1,loss,1.7792152166366577,0.06297147274017334,2
+alle_durchläufe,true_generator,0.0,loss,1.0815356373786926,0.17020541429519653,2
