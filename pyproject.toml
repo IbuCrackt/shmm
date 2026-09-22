@@ -1,0 +1,14 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "shmm"
+version = "1.0.0"
+authors = [
+  { name="Jonas Thein", email="theinj@gmx.de" },
+]
+description = "gestapelte Hidden-Markow-Modelle"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = ["tensorflow[and-cuda]", "numpy", "hidten", "ibutils", "matplotlib"]
