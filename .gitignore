@@ -211,7 +211,10 @@ __marimo__/
 *.npy
 *.h5
 *.json
+*.csv
 project/nohup.out
 nohup.out
 log.txt
 config.py
+results_token_level/
+results_classification/

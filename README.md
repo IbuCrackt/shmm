@@ -11,7 +11,7 @@ In deiner Python (3.12) venv:
 
 Optional:
 
-    $ python -m pip install git+https://github.com/IbuCrackt/ibutils.git@v0.0.1
+    $ python -m pip install git+https://github.com/theinj/ibutils.git@v0.0.1
 
 ## Klassifizierungstask
 
